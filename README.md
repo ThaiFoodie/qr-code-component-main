@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./Screenshot 2025-09-13 160028.png)
+![Project Screenshot](./ScreenshotResults.png)
 
 ### Links
 
